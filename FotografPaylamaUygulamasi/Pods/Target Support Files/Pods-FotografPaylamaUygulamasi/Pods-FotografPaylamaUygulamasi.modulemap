@@ -1,0 +1,6 @@
+framework module Pods_FotografPaylamaUygulamasi {
+  umbrella header "Pods-FotografPaylamaUygulamasi-umbrella.h"
+
+  export *
+  module * { export * }
+}
